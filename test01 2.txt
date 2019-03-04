@@ -3,4 +3,6 @@
 33333
 
 add func1
+
+add func2
 修改前的文件
